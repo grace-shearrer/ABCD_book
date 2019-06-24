@@ -21,6 +21,12 @@ setup(name='puberty_nets',
       'statistics',
       'matplotlib',
       'visbrain',
-      'bct'
+      'bct',
+      'nda_aws_token_generator',
+      'awsdownload',
+      'argparse',
+      'glob',
+      'subprocess',
+      'shutil'
       ]
       zip_safe=False)
